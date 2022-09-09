@@ -1,0 +1,29 @@
+[33mcommit d4aa7a3630683d34580febc2d704a60fa4272bd5[m[33m ([m[1;36mHEAD -> [m[1;32mjulieta[m[33m)[m
+Author: olivera_julieta@outlook.com <olivera_julieta@outlook.com>
+Date:   Thu Sep 8 21:00:56 2022 -0300
+
+    Agregando saludar.py
+
+[33mcommit 1b31573dc5325ffe89c2ee3215331298f5357494[m
+Author: olivera_julieta@outlook.com <olivera_julieta@outlook.com>
+Date:   Thu Sep 8 20:45:34 2022 -0300
+
+    Agregando holis.txt
+
+[33mcommit ffca42817735f9f38033a0cbae566b9009646362[m[33m ([m[1;32masd[m[33m)[m
+Author: JulietaOlivera <olivera_julieta@outlook.com>
+Date:   Thu Sep 8 19:43:17 2022 -0300
+
+    agregando  mi txt
+
+[33mcommit c356f7e14bcd469928ff5970a2a281fb95d3fdb2[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Julaa174 <olivera_julieta@outlook.com>
+Date:   Thu Sep 8 19:13:01 2022 -0300
+
+    Add doc
+
+[33mcommit 89dda46e94bc840cc6dd279459d84ddd801e3441[m
+Author: Julaa174 <olivera_julieta@outlook.com>
+Date:   Thu Sep 8 19:11:55 2022 -0300
+
+    Creacion de index.html
